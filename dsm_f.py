@@ -16,3 +16,4 @@ class calc:
     
 x = 234
 Y = 345
+k = "kk"
