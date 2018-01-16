@@ -13,3 +13,6 @@ def disp3(s):
 class calc:
     def plus(self, *args):
         return sum(args)
+    
+x = 234
+Y = 345
